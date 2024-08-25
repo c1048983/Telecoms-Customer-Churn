@@ -1,0 +1,8 @@
+echo "# Telecoms-Customer-Churn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/c1048983/Telecoms-Customer-Churn.git
+git push -u origin main
+
